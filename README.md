@@ -12,7 +12,7 @@
 + [ ] 第 2 章 变量作用域
   - [x] [第 8 条：尽量少用全局对象](https://github.com/xiaoluoboding/effective-javascript/issues/8)
   - [x] [第 9 条：始终声明局部变量](https://github.com/xiaoluoboding/effective-javascript/issues/9)
-  - [ ] [第 10 条：避免使用 with](https://github.com/xiaoluoboding/effective-javascript/issues/10)
+  - [x] [第 10 条：避免使用 with](https://github.com/xiaoluoboding/effective-javascript/issues/10)
   - [ ] [第 11 条：熟练掌握闭包](https://github.com/xiaoluoboding/effective-javascript/issues/11)
   - [ ] [第 12 条：](https://github.com/xiaoluoboding/effective-javascript/issues/12)
   - [ ] [第 13 条：](https://github.com/xiaoluoboding/effective-javascript/issues/13)
